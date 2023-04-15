@@ -1,0 +1,4 @@
+baseURL = 'http://tad.org/'
+languageCode = 'es-ar'
+title = 'My New Hugo Site'
+theme = 'ananke'

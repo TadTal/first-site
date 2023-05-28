@@ -2,3 +2,4 @@ baseURL = 'http://tad.org/'
 languageCode = 'es-ar'
 title = 'TadTal'
 theme = 'ananke'
+customCSS = ["css/custom.css"]

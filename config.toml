@@ -2,8 +2,3 @@ baseURL = 'http://tad.org/'
 languageCode = 'es-ar'
 title = 'TadTal'
 theme = 'ananke'
-[params]
-featured_image: '/images/image.jpg'
-font = 'sans-serif'
-[params]
-  text_color = "green"

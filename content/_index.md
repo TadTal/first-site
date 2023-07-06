@@ -1,102 +1,36 @@
 ---
-title: "Where Innovation Meets Web Development"
+title: "tadtal"
 date: 2023-06-05T12:44:41-03:00
 draft: false
 featured_image : "image.jpg"
+menu: "main"
 ---
 
-<style>
-/* Add your custom CSS here */
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
 
-section {
-  margin-bottom: 40px;
-}
 
-h2 {
-  margin-bottom: 20px;
-}
+# Website Development {#home}
 
-hr.section-divider {
-  border-top: 2px solid #007bff;
-  width: 50%;
-  margin-left: auto;
-  margin-right: auto;
-}
+## About Me {#about}
 
-ul.styled-list {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
+I am a professional web developer with expertise in creating stunning and functional websites. With years of experience in the industry, I am dedicated to delivering high-quality web solutions tailored to meet your business needs.
 
-ul.styled-list li {
-  padding: 10px 0;
-  border-bottom: 1px solid #ddd;
-}
+## The Product {#product}
 
-p {
-  margin-bottom: 10px;
-}
+### Custom Website Design
 
-</style>
+I specialize in designing custom websites that are visually appealing, user-friendly, and optimized for performance. Whether you need a simple portfolio website or a complex e-commerce platform, I can create a tailored solution that aligns with your brand and goals.
 
-# Dr. John Doe
+### Responsive Development
 
-## Neurosurgeon
+In today's mobile-centric world, it's crucial to have a responsive website that looks great on all devices. I ensure that your website adapts seamlessly to different screen sizes, providing an optimal user experience across desktops, tablets, and smartphones.
 
-Welcome to the website of Dr. John Doe, a highly skilled and experienced neurosurgeon dedicated to providing exceptional care and treatment for patients with neurological disorders. With a focus on delivering personalized and compassionate care, Dr. Doe is committed to improving the lives of his patients through innovative surgical techniques and comprehensive treatment plans.
+### SEO Optimization
 
-## Education and Training
+Having a well-optimized website is essential for attracting organic traffic and improving your online visibility. I implement industry best practices to optimize your website's structure, content, and meta tags, helping you rank higher in search engine results.
 
-<div class="container">
+## Contact Us {#contact}
 
-- Bachelor of Medicine, University of ABC
-- Doctor of Medicine, XYZ Medical School
-- Residency in Neurosurgery, DEF Hospital
-- Fellowship in Neurosurgical Oncology, GHI Medical Center
+If you're ready to take your online presence to the next level, let's connect! Feel free to reach out to me for a consultation or any inquiries you may have.
 
-</div>
-
-<hr class="section-divider">
-
-## Areas of Expertise
-
-<div class="container">
-
-- Brain tumors
-- Spinal disorders
-- Cerebrovascular diseases
-- Neurotrauma
-- Epilepsy surgery
-- Movement disorders
-
-</div>
-
-<hr class="section-divider">
-
-## Approach to Patient Care
-
-<div class="container">
-
-Dr. Doe believes in a patient-centered approach, where open communication and collaboration with patients and their families are key. He takes the time to listen to each patient's concerns, thoroughly explain their diagnosis, and discuss the available treatment options. Dr. Doe is dedicated to providing the highest level of care and strives to make a positive impact on the lives of his patients.
-
-</div>
-
-<hr class="section-divider">
-
-## Research and Publications
-
-<div class="container">
-
-Dr. Doe is actively involved in research and has published numerous articles in reputable medical journals. Some of his notable publications include:
-
-- "Advancements in Neurosurgical Techniques for Brain Tumor Resection" - Journal of Neurosurgery
-- "Efficacy of Deep Brain Stimulation in Parkinson's Disease: A Long-Term Follow-Up Study" - Neurology Journal
-
-</div>
-
+- Email: info@example.com
+- Phone: +1 123-456-7890

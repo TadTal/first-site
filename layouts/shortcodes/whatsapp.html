@@ -1,0 +1,7 @@
+{{ $message := "" }}
+{{ $text := "What'sApp"}}
+<a
+  href="https://wa.me/{{ .Get "number" }}?text={{or (.Get "message") $message}}"}
+>
+  {{or (.Get "text") $text}}
+</a>

@@ -34,3 +34,5 @@ If you're ready to take your online presence to the next level, let's connect! F
 
 - Email: info@example.com
 - Phone: +1 123-456-7890
+
+{{< whatsapp number="543515087695" message="Hi I'm interested in creating a website with you" text="send me a message" >}}
